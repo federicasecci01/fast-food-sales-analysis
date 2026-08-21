@@ -38,6 +38,22 @@ I also used **descriptive statistics** to better understand the numerical variab
 My Mathematics background helped me approach this part of the project with a quantitative mindset: rather than looking at individual values, I focused on **aggregations, comparisons, distributions and relationships between different dimensions of the data**.
 
 ---
+## Outlier Analysis
+
+As part of the exploratory analysis in Excel, I used a **box plot to identify potential outliers** in the numerical data.
+
+I would not remove these observations automatically. In a real business environment, I would first investigate their origin by checking the underlying transaction and, when necessary, discussing the case with the **manager responsible for the related sales activity**.
+
+The goal would be to understand whether the unusual value represents:
+
+* a valid but exceptional transaction;
+* a specific promotion or business event;
+* a data-entry or recording error;
+* or another operational factor.
+
+Only after understanding the cause would I decide how to handle the observation in the analysis. Valid extreme values would generally be retained, while confirmed data-quality issues would be corrected or excluded with the decision properly documented.
+
+---
 
 ## Tableau Dashboard
 
