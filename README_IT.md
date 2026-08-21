@@ -76,20 +76,20 @@ Il file Excel presente nel repository documenta il processo analitico alla base 
 
 ---
 
-## Outlier Analysis
+## Analisi degli outlier
 
-As part of the exploratory analysis in Excel, I used a **box plot to identify potential outliers** in the numerical data.
+Durante l'analisi esplorativa in Excel ho utilizzato un **box plot per individuare la presenza di potenziali outlier** nei dati numerici.
 
-I would not remove these observations automatically. In a real business environment, I would first investigate their origin by checking the underlying transaction and, when necessary, discussing the case with the **manager responsible for the related sales activity**.
+In un contesto aziendale non eliminerei automaticamente queste osservazioni. Il primo passo sarebbe verificare la transazione da cui deriva il valore anomalo e, quando necessario, confrontarmi con il **manager responsabile dell'attività di vendita interessata**.
 
-The goal would be to understand whether the unusual value represents:
+L'obiettivo sarebbe capire se il valore rappresenta:
 
-* a valid but exceptional transaction;
-* a specific promotion or business event;
-* a data-entry or recording error;
-* or another operational factor.
+* una transazione reale ma eccezionale;
+* una promozione o un particolare evento commerciale;
+* un errore di inserimento o registrazione;
+* oppure un'altra situazione operativa.
 
-Only after understanding the cause would I decide how to handle the observation in the analysis. Valid extreme values would generally be retained, while confirmed data-quality issues would be corrected or excluded with the decision properly documented.
+Solo dopo averne individuato la causa deciderei come trattare l'osservazione nell'analisi. Un valore estremo ma reale verrebbe generalmente mantenuto, mentre un problema effettivo di qualità del dato potrebbe essere corretto o escluso, documentando la decisione.
 
 ---
 
