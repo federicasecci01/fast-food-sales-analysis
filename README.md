@@ -1,3 +1,5 @@
+🇬🇧 English | 🇮🇹 [Italiano](README_IT.md)
+
 # Fast Food Sales Analysis
 
 ### From transactional data to business insights through quantitative analysis and interactive visualization
